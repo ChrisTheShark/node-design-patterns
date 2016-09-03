@@ -1,0 +1,23 @@
+{
+  "name": "node-design-patterns",
+  "version": "0.0.1",
+  "description": "Simple exercises demonstrating design patterns in nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design",
+    "patterns"
+  ],
+  "author": "Chris Dyer",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "bluebird": "^3.4.1",
+    "chance": "^1.0.4",
+    "co": "^3.1.0",
+    "request": "^2.74.0",
+    "thunkify": "^2.1.2"
+  }
+}
