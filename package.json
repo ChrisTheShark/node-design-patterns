@@ -17,7 +17,9 @@
     "bluebird": "^3.4.1",
     "chance": "^1.0.4",
     "co": "^3.1.0",
+    "from2-array": "0.0.4",
     "request": "^2.74.0",
+    "through2": "^2.0.1",
     "thunkify": "^2.1.2"
   }
 }
