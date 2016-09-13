@@ -18,8 +18,10 @@
     "chance": "^1.0.4",
     "co": "^3.1.0",
     "from2-array": "0.0.4",
+    "fstream": "^1.0.10",
     "multipipe": "^0.3.1",
     "request": "^2.74.0",
+    "tar": "^2.2.1",
     "through2": "^2.0.1",
     "thunkify": "^2.1.2"
   }
