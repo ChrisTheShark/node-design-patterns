@@ -4,7 +4,7 @@
   "description": "Simple exercises demonstrating design patterns in nodejs.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/_mocha test"
   },
   "keywords": [
     "design",
@@ -15,14 +15,19 @@
   "dependencies": {
     "async": "^2.0.1",
     "bluebird": "^3.4.1",
+    "chai": "^3.5.0",
     "chance": "^1.0.4",
     "co": "^3.1.0",
     "from2-array": "0.0.4",
     "fstream": "^1.0.10",
+    "mocha": "^3.0.2",
     "multipipe": "^0.3.1",
     "request": "^2.74.0",
     "tar": "^2.2.1",
     "through2": "^2.0.1",
     "thunkify": "^2.1.2"
+  },
+  "devDependencies": {
+    "level": "^1.4.0"
   }
 }
