@@ -27,7 +27,8 @@
     "request": "^2.74.0",
     "tar": "^2.2.1",
     "through2": "^2.0.1",
-    "thunkify": "^2.1.2"
+    "thunkify": "^2.1.2",
+    "zmq": "^2.15.3"
   },
   "devDependencies": {
     "level": "^1.4.0"
